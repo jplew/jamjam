@@ -1,3 +1,7 @@
+This site is available at https://jplew.github.io/jamjam.
+
+It was created using `ops run jam` (an op hosted privately at https://git.cto.ai/platform-solutions/ops/jam). See the Ops platform for more details: https://cto.ai/platform.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
